@@ -1,0 +1,7 @@
+Git Practice
+
+1. Git tracks changes in project files.
+2. GitHub hosts remote repositories.
+3. Branches help developers work independently.
+4. Commits record changes.
+5. Pull Requests allow code review.
